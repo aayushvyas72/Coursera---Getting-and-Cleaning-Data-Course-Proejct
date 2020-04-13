@@ -1,4 +1,4 @@
-##Information of tidy_data.txt
+## Information of tidy_data.txt
 
 The first two variables in this file contains values for the subject and the activities performed by the subject.
 There are six activities performed by each subject: Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, and Laying.
@@ -91,13 +91,13 @@ Average.fBodyGyroMag.std() | Numeric | Represents average of standard deviation 
 Average.fBodyGyroJerkMag.mean() | Numeric | Represents average of means for the magnitude of jerk of angular velocity, frequency domain
 Average.fBodyGyroJerkMag.std() | Numeric | Represents average of standard deviation for the magnitude of jerk of angular velocity, frequency domain
 
-##Loading tidy_data.txt in R
+## Loading tidy_data.txt in R
 
 To load the output file of code(tid_data.txt) in R, user needs to run the following code:
 
     tidy_data <- read.table("tidy_data.txt", header = TRUE)
 
-##Process of generatin of tidy_data.txt
+## Process of generatin of tidy_data.txt
 
 The object was to code that does the following:
 1. Merges the training and the test sets to create one data set.
