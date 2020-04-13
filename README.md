@@ -1,1 +1,1 @@
-# Coursera---Getting-and-Cleaning-Data-Course-Proejct
+# Coursera---Getting-and-Cleaning-Data-Course-Project
